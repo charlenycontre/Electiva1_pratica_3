@@ -1,0 +1,14 @@
+{
+  "name": "landing-page-electiva1",
+  "version": "1.0.0",
+  "description": "Landing Page estática con CI/CD en GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
