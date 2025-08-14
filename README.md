@@ -25,6 +25,10 @@ Este pipeline está dividido en **dos fases principales**: **Build** y **Deploy*
    * Publica automáticamente el sitio, forzando una rama huérfana para no acumular historial innecesario.
    * Desactiva Jekyll para permitir que se muestren archivos con nombres que contengan guiones bajos.
 
+-Pagina web 
+
+<img width="942" height="397" alt="image" src="https://github.com/user-attachments/assets/b5b47bbc-552b-4bfa-8d0f-127817d82914" />
+
  
 -Detalles técnicos del archivo de configuración
 
